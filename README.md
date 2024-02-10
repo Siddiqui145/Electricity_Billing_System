@@ -28,6 +28,3 @@ To use the Electricity Billing System, follow these steps:
    - Show Previous Records: View previous billing records stored in the system.
    - Exit: Terminate the program.
 3. Follow the prompts to input necessary information and view the calculated bill.
-
- Contributing
-Contributions are welcome! If you have any suggestions, bug fixes, or feature enhancements, feel free to open an issue or create a pull request. Please adhere to the [code of conduct](CODE_OF_CONDUCT.md).
